@@ -31,7 +31,7 @@ class MakeUrl
             'url'=>$url,
             'parent'=>'lipolitiki',
             'grandpa'=>'0',
-            'greatGrandpa'=>'011',
+            'greatGrandpa'=>'0112',
 
         ];
         $links=[];
